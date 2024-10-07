@@ -1,9 +1,9 @@
 # Financial-Analysis-Power-BI
 
-Problem Statement:-
+# Problem Statement:-
 You are a Financial Data Analyst tasked with analyzing credit card usage and financial metrics for a banking institution. Using the provided data, you will create reports in Power BI by applying DAX functions. Your goal is to calculate financial metrics like running totals, moving averages, and growth rates, and generate KPIs that assess customer behavior, credit utilization, and delinquency risk. The analysis will provide key insights for improving customer retention and financial performance.
 
-Project Aim:-
+# Project Aim:-
 Write DAX formulas for the following:-
 
 1) Running Total of Credit Card Transactions
